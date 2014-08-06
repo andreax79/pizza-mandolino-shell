@@ -12,7 +12,7 @@
 # CMD creacartella          mkdir
 # CMD rimuovicartella       rmdir
 # CMD grappa                grep
-# CMD sciacquone            wc
+# CMD watercesso            wc
 # CMD dovesono              pwd
 # CMD vai                   cd
 # CMD data                  date
@@ -38,6 +38,7 @@
 # CMD conchigliasicura      ssh
 # CMD copiasicura           scp
 # CMD cambiamodo            chmod
+# CMD cambiaproprietario    chown
 # CMD conchiglia            sh
 # CMD processi              ps
 # CMD cima                  top
@@ -65,6 +66,10 @@
 # CMD altrimenti            else
 # CMD ealtrimentise         elif
 # CMD poibasta              fi
+# CMD sesu                  ifup
+# CMD segiu                 ifdown
+
+
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
