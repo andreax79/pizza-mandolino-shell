@@ -79,6 +79,9 @@
 # CMD cambiamodo            chmod
 # CMD riavvia               reboot
 # CMD individua             locate
+# CMD tracciarotta          traceroute
+# CMD tracciarotta6         traceroute6
+# CMD percorso              route
 
 
 if [ -n "$ZSH_VERSION" ]; then
