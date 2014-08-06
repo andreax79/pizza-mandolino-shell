@@ -68,7 +68,15 @@
 # CMD poibasta              fi
 # CMD sesu                  ifup
 # CMD segiu                 ifdown
-
+# CMD chi                   who
+# CMD chie                  whois
+# CMD vudoppia              w
+# CMD collega               ln
+# CMD collegaoggetti        ld
+# CMD checosae              whatis
+# CMD riguardo              apropos
+# CMD cambiaproprietario    chown
+# CMD cambiamodo            chmod
 
 
 if [ -n "$ZSH_VERSION" ]; then
