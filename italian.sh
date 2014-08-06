@@ -65,6 +65,8 @@
 # CMD altrimenti            else
 # CMD ealtrimentise         elif
 # CMD poibasta              fi
+# CMD riavvia               reboot
+# CMD individua             locate
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
