@@ -77,8 +77,8 @@
 # CMD riguardo              apropos
 # CMD cambiaproprietario    chown
 # CMD cambiamodo            chmod
-# CMD riavvia reboot
-# CMD individua locate
+# CMD riavvia               reboot
+# CMD individua             locate
 
 
 if [ -n "$ZSH_VERSION" ]; then
