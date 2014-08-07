@@ -82,7 +82,7 @@
 # CMD tracciarotta          traceroute
 # CMD tracciarotta6         traceroute6
 # CMD percorso              route
-
+# CMD comandantemezzanotte  mc
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
