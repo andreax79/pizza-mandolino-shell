@@ -28,7 +28,7 @@
 # CMD prova                 test
 # CMD tocca                 touch
 # CMD ultimo                last
-# CMD cerca                 find
+# CMD trova                 find
 # CMD ambiente              env
 # CMD storia                history
 # CMD esporta               export
@@ -83,6 +83,7 @@
 # CMD tracciarotta6         traceroute6
 # CMD percorso              route
 # CMD comandantemezzanotte  mc
+# CMD per                   for
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
