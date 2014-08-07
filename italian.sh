@@ -87,7 +87,10 @@
 # CMD fatto                 done
 # CMD mentre                while
 # CMD pitone                python
-# CMD perla                 perl
+# CMD pirla                 perl
+# CMD rubino                ruby
+# CMD ant                   formica
+# CMD caffe                 java
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
