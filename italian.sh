@@ -92,6 +92,8 @@
 # CMD ant                   formica
 # CMD caffe                 java
 # CMD come                  as
+# CMD cernieralampo         zip
+# CMD gattodirete           nc
 
 
 if [ -n "$ZSH_VERSION" ]; then
