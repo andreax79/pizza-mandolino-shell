@@ -99,7 +99,8 @@
 # CMD maglietta             tee
 # CMD legare                truss
 # CMD buono                 nice
-
+# CMD bisonte               bison
+# CMD fletti                flex
  
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
