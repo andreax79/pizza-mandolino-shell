@@ -91,6 +91,8 @@
 # CMD rubino                ruby
 # CMD ant                   formica
 # CMD caffe                 java
+# CMD come                  as
+
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
