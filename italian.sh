@@ -16,6 +16,8 @@
 # CMD dovesono              pwd
 # CMD vai                   cd
 # CMD data                  date
+# CMD appuntamento          date
+# CMD tempo                 time
 # CMD lista                 ls
 # CMD esci                  exit
 # CMD chi                   who
@@ -94,8 +96,11 @@
 # CMD come                  as
 # CMD cernieralampo         zip
 # CMD gattodirete           nc
+# CMD maglietta             tee
+# CMD legare                truss
+# CMD buono                 nice
 
-
+ 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
 elif [ -n "$KSH_VERSION" ]; then
