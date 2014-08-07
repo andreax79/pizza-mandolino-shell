@@ -91,7 +91,7 @@
 # CMD pitone                python
 # CMD pirla                 perl
 # CMD rubino                ruby
-# CMD ant                   formica
+# CMD formica               ant
 # CMD caffe                 java
 # CMD come                  as
 # CMD cernieralampo         zip
@@ -101,6 +101,7 @@
 # CMD buono                 nice
 # CMD bisonte               bison
 # CMD fletti                flex
+# CMD nodo                  node
  
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
