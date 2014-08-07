@@ -84,6 +84,10 @@
 # CMD percorso              route
 # CMD comandantemezzanotte  mc
 # CMD per                   for
+# CMD fatto                 done
+# CMD mentre                while
+# CMD pitone                python
+# CMD perla                 perl
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
