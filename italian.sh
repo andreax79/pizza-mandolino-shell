@@ -110,6 +110,8 @@
 # CMD calendario            cal
 # CMD taglia                cut
 # CMD incolla               paste
+# CMD unico                 uniq
+
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
