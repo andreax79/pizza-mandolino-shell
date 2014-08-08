@@ -102,7 +102,15 @@
 # CMD bisonte               bison
 # CMD fletti                flex
 # CMD nodo                  node
- 
+# CMD volte                 times
+# CMD manuale               man
+# CMD aproposito            apropos
+# CMD dormi                 sleep
+# CMD chdir                 cambiaradice
+# CMD calendario            cal
+# CMD taglia                cut
+# CMD incolla               paste
+
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
 elif [ -n "$KSH_VERSION" ]; then
