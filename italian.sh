@@ -111,7 +111,7 @@
 # CMD taglia                cut
 # CMD incolla               paste
 # CMD unico                 uniq
-
+# CMD lapatata              sudo
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
