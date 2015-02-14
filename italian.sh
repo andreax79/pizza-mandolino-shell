@@ -58,6 +58,7 @@
 # CMD monta                 mount
 # CMD smonta                umount
 # CMD dovesta               whereis
+# CMD che                   which
 # CMD coda                  tail
 # CMD testa                 head
 # CMD leggi                 read
