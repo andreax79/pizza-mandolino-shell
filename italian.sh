@@ -113,6 +113,7 @@
 # CMD incolla               paste
 # CMD unico                 uniq
 # CMD lapatata              sudo
+# CMD nocernieralampo       unzip
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
