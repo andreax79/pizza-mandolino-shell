@@ -114,6 +114,7 @@
 # CMD unico                 uniq
 # CMD lapatata              sudo
 # CMD nocernieralampo       unzip
+# CMD quantapotenza         lscpu
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
