@@ -115,6 +115,7 @@
 # CMD lapatata              sudo
 # CMD nocernieralampo       unzip
 # CMD quantapotenza         lscpu
+# CMD hosti                 host
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
