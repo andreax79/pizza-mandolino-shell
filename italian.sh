@@ -116,6 +116,7 @@
 # CMD nocernieralampo       unzip
 # CMD quantapotenza         lscpu
 # CMD hosti                 host
+# CMD intelligente          smart
 
 if [ -n "$ZSH_VERSION" ]; then
   self=$0
