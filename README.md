@@ -1,11 +1,25 @@
-pizza-mandolino-shell-4-fish 🍕🎻🐌4️⃣🐠
+pizza-mandolino-shell-4-fish 🍕🎻🐚4️⃣🐠
 =====================
 
 ![Made in Italy](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9%20made%20in%20italy-gray.svg)
 
 Practice your Italian with shell
 
-usage: source italian.sh
+Install 
+-------
+```bash
+fish eseguimi.fish install
+```
+reload fish shell
+
+Uninstall 
+-------
+```bash
+fish eseguimi.fish uninstall
+```
+type: y
+reload fish shell
+
 
 ---
 
